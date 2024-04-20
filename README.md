@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: casearx@gmail.com
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
-  <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CasearF/CasearF/blob/main/github-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CasearF/CasearF/blob/main/github-snake.svg">
+  <img src="https://github.com/CasearF/CasearF/blob/main/github-snake.svg">
 </picture>
