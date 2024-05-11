@@ -1,7 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CasearF)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=CasearF&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
-
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=CasearF&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/><img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasearF&locale=en&line_height=33&theme=&langs_count=5"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# Python webSecurity
 - 👯 I’m looking to collaborate on ...
