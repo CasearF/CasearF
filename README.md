@@ -1,5 +1,7 @@
-<img   align="left" src="https://github-readme-stats.vercel.app/api?username=CasearF&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasearF&locale=en&line_height=33&theme=&langs_count=5"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasearF&theme=dark&show_icons=true)
+
+<img   align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=CasearF&locale=en&line_height=33&theme=&langs_count=5](https://github-readme-stats.vercel.app/api?username=CasearF&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default)"/>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CasearF&theme=transparent&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84)](https://git.io/streak-stats)
 - 🔭 I’m currently working on ...
