@@ -12,4 +12,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CasearF)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+<a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>
