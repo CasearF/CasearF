@@ -1,6 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasearF&theme=transparent&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CasearF&theme=transparent&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasearF&theme=transparent&show_icons=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CasearF&theme=transparent&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84)](https://git.io/streak-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# Python webSecurity
 - 👯 I’m looking to collaborate on ...
