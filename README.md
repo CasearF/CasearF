@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CasearF)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasearF)](https://github.com/anuraghazra/github-readme-stats)
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=CasearF&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# Python webSecurity
